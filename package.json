@@ -1,0 +1,30 @@
+{
+  "name": "md-to-pdf",
+  "version": "1.0.0",
+  "description": "A simple and efficient module to convert Markdown files to PDF using TypeScript, marked, and puppeteer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrianlamdev/md-to-pdf.git"
+  },
+  "keywords": [
+    "markdown",
+    "pdf",
+    "converter",
+    "typescript",
+    "marked",
+    "puppeteer"
+  ],
+  "author": "Adrian Lam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adrianlamdev/md-to-pdf/issues"
+  },
+  "homepage": "https://github.com/adrianlamdev/md-to-pdf#readme",
+  "devDependencies": {
+    "typescript": "^5.5.3"
+  }
+}
